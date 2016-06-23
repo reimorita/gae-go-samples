@@ -3,6 +3,7 @@
 ## Execute program
 
 1. Install Cloud SDK
+  
   https://cloud.google.com/sdk/downloads#mac 
 
 2. Clone this code
@@ -13,6 +14,7 @@
 ## Deploy
 
 1. Create Google Cloud Platform Project
+  
   https://cloud.google.com/
 
 2. Edit "projectId" in app.yaml

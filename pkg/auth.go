@@ -3,8 +3,6 @@ package pkg
 import (
 	"net/http"
 	"fmt"
-
-	// (1)
 	"appengine"
 	"appengine/user"
 )

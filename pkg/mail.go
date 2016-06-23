@@ -2,8 +2,6 @@ package pkg
 
 import (
 	"net/http"
-
-	// (1)
 	"appengine"
 	"appengine/mail"
 )
